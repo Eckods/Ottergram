@@ -1,2 +1,2 @@
 # Ottergram
-Working through program from BigNerdRanch book
+Working through website from BigNerdRanch book
